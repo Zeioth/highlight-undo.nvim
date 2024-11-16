@@ -1,5 +1,5 @@
 > **What is this repo?**
-> `Highlight-undo.nvim` before it's rewrite.
+> `Highlight-undo.nvim` before its rewrite.
 > The classic way is less likely to cause conflicts with other plugins, and it's config is considerably less boilerplate.
 > So let's maintain it here.
 

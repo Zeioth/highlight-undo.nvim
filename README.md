@@ -1,3 +1,8 @@
+> **What is this repo?**
+> `Highlight-undo.nvim` before it's rewrite.
+> The classic way is less likely to cause conflicts with other plugins, and it's config is considerably less boilerplate.
+> So let's maintain it here.
+
 # highlight-undo.nvim
 
 Highlight changed text after Undo / Redo operations. Purely lua / nvim api implementation,
